@@ -36,6 +36,7 @@
                 "https://www.coursera.org/*",
                 "https://www.aliyundrive.com/*",
                 "https://play.hbomax.com/*",
+                "https://olevod2.com/*"
                 "file:///*"
             ],
             "run_at": "document_end",
